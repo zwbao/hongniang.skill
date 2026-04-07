@@ -1,0 +1,39 @@
+# 示例档案 — 红娘会通过对话逐步构建类似的结构化信息
+# 不需要一次填完，空字段表示还没聊到
+
+basic:
+  age: 28
+  gender: male
+  city: 北京
+  occupation: 软件工程师
+  education: 硕士
+
+lifestyle:
+  hobbies:
+    - 跑步
+    - 看电影
+    - 做饭
+  schedule: 朝九晚六偶尔加班
+  social_style: 小圈子社交
+
+personality:
+  traits:
+    - 理性
+    - 安静
+    - 有耐心
+  communication: 倾听型
+
+values:
+  career_priority: 中等
+  family_importance: 高
+  life_goal: 工作生活平衡
+
+preferences:
+  age_range: [25, 32]
+  city:
+    - 北京
+    - 上海
+  dealbreakers:
+    - 抽烟
+  nice_to_have:
+    - 喜欢运动
