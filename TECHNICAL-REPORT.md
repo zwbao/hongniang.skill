@@ -233,7 +233,7 @@ date_feedback       — 约会后反馈（recommendation_id, outcome, rating, co
 | 用户端 | Agent Skills 标准（SKILL.md + Bash 脚本） |
 | 后端 | TypeScript / Node.js（OpenClaw fork） |
 | 数据库 | PostgreSQL 16 |
-| LLM（匹配） | Claude（通过 OpenClaw 配置） |
+| LLM（匹配） | MiniMax M2.7（通过 OpenClaw 配置） |
 | LLM（用户对话） | 用户本地 Agent 工具自带的 LLM |
 | Embedding | 阿里通义千问 text-embedding-v4 |
 | 部署 | Docker（PostgreSQL）+ Node.js 直接运行 |
